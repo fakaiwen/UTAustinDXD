@@ -15,3 +15,5 @@ Included here are:
 (2) Working TouchDesigner file for the proof of concept.
 
 (3) Images and videos of the proof of concept.
+
+Please go to this link for the video demonstrating the Proof of Concept for the inner projection part of the installation: https://youtu.be/Wle_rC42uGw
