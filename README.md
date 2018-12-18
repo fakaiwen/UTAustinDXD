@@ -9,6 +9,9 @@ aims both to bringing the sense of refreshment to desert context of the festival
 issue of global warming.
 
 Included here are:
+
 (1) Documentations demonstrating design concept, which includes: Ground Plan, Section, System Diagram, and Renderings.
+
 (2) Working TouchDesigner file for the proof of concept.
+
 (3) Images and videos of the proof of concept.
