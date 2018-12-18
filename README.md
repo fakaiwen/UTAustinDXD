@@ -1,5 +1,5 @@
 # UTAustinDXD
-Final Project for the Digital Experience Design and Practice.
+This is the Final Project for the Digital Experience Design and Practice.
 
 This project takes on a form as a proposal for the Coachella festival. What's shown here are files that demonstrates the design
 concept, working files for the proof of concept, and videos and images of the proof of concept. 
